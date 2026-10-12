@@ -1,0 +1,13 @@
+Senior Full Stack Developer
+Location: Remote | Experience: 3+ years of experience
+
+About the Role:
+We are seeking a talented Full Stack Developer to build modern web applications and robust microservices.
+
+Key Requirements:
+- 3+ years of experience in modern web development.
+- Strong proficiency in React, TypeScript, JavaScript, Node.js, and Express.
+- Experience with databases such as PostgreSQL and MongoDB.
+- Experience building REST APIs, GraphQL, and microservices.
+- Proficiency with Git, Docker, and CI/CD pipelines.
+- Bachelor's degree (B.Tech or B.S.) in Computer Science.

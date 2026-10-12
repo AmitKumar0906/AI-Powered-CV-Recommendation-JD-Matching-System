@@ -1,0 +1,12 @@
+Cloud DevOps & Infrastructure Architect
+Location: On-site | Experience: 5+ years of experience
+
+About the Role:
+Looking for a Senior DevOps Engineer to lead cloud infrastructure modernization, container orchestration, and CI/CD automation.
+
+Key Requirements:
+- 5+ years of experience in DevOps and Cloud Infrastructure.
+- Deep expertise in AWS (Amazon Web Services), Docker, and Kubernetes (K8s).
+- Strong hands-on experience with Terraform, Ansible, Jenkins, and Linux.
+- Proficiency in Python or Bash scripting.
+- Experience with monitoring systems like Prometheus and Grafana.

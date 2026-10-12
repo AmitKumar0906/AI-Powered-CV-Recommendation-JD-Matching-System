@@ -1,0 +1,12 @@
+Senior Frontend React Engineer
+Location: Hybrid | Experience: 3+ years of experience
+
+About the Role:
+We are looking for a Senior Frontend Engineer passionate about crafting beautiful, high-performance web experiences.
+
+Key Requirements:
+- 3+ years of frontend development experience.
+- Deep expertise in React, Next.js, TypeScript, and modern JavaScript.
+- Proficiency in HTML5, CSS3, Tailwind, and responsive UI design.
+- Experience integrating REST APIs and GraphQL.
+- Strong understanding of web performance, Git, and component-driven architecture.

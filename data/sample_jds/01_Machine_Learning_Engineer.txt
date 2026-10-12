@@ -1,0 +1,12 @@
+Machine Learning Engineer
+Location: Hybrid | Experience: 4+ years of experience
+
+About the Role:
+We are looking for an experienced Machine Learning Engineer to design, build, and deploy production ML models and deep learning pipelines.
+
+Key Requirements:
+- 4+ years of hands-on experience in Machine Learning and Deep Learning.
+- Strong proficiency in Python, PyTorch, TensorFlow, and Scikit-Learn.
+- Experience building scalable training pipelines, MLOps, and model deployment using Docker and SQL.
+- Strong understanding of algorithms, data structures, and mathematical foundations.
+- Bachelor's or Master's degree in Computer Science (B.Tech, M.Tech, MS).

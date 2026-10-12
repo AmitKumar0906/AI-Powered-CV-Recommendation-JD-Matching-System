@@ -1,0 +1,12 @@
+Senior Backend Python Developer
+Location: Remote | Experience: 4+ years of experience
+
+About the Role:
+Seeking a Senior Backend Engineer to architect high-throughput microservices and APIs using modern Python frameworks.
+
+Key Requirements:
+- 4+ years of professional backend software engineering experience.
+- Strong expertise in Python, FastAPI, Django, and Flask.
+- Deep knowledge of relational and NoSQL databases: PostgreSQL, Redis, MySQL.
+- Experience with Docker, microservices, system design, and REST APIs.
+- Version control proficiency with Git and automated unit testing (Pytest).

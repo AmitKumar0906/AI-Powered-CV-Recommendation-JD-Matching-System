@@ -1,0 +1,12 @@
+Generative AI & LLM Engineer
+Location: Remote | Experience: 3+ years of experience
+
+About the Role:
+We are seeking a Generative AI & LLM Engineer to build state-of-the-art enterprise AI applications leveraging Large Language Models, RAG, and agentic workflows.
+
+Key Requirements:
+- 3+ years of experience in NLP, Generative AI, and Transformer architectures.
+- Hands-on expertise with LLMs, RAG, LangChain, LlamaIndex, BERT, and Transformers.
+- Proficiency in Python, PyTorch, Scikit-Learn, and vector search (FAISS).
+- Experience fine-tuning open-source models and prompt engineering.
+- Bachelor's or Master's degree in AI, Data Science, or Computer Science.

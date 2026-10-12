@@ -1,0 +1,12 @@
+Data Scientist & Analytics Specialist
+Location: Hybrid | Experience: 3+ years of experience
+
+About the Role:
+Looking for a Data Scientist to extract actionable insights, build predictive statistical models, and collaborate with product teams.
+
+Key Requirements:
+- 3+ years of professional experience in Data Science and Data Analysis.
+- Strong proficiency in Python, SQL, Pandas, NumPy, and Scikit-Learn.
+- Experience with data visualization (Matplotlib, Seaborn, Tableau) and exploratory analysis.
+- Proven track record with machine learning classification, regression, and clustering.
+- B.Tech, M.S., or equivalent quantitative degree.

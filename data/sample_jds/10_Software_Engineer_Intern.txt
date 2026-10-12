@@ -1,0 +1,12 @@
+Software Engineer Intern (Full Stack / Web)
+Location: Hybrid | Experience: 0 - 1 years (Fresher / Student)
+
+About the Internship:
+We are hiring Software Development Interns to build modern web interfaces and backend services for our product engineering team.
+
+Key Requirements:
+- Pursuing or completed Bachelor's degree (B.Tech, B.E., BCA) in Computer Science or IT.
+- Proficiency in JavaScript, React, HTML5, CSS3, and Node.js.
+- Basic knowledge of databases like PostgreSQL, MySQL, or MongoDB.
+- Familiarity with Git version control and REST APIs.
+- Strong problem-solving skills and ability to work in an agile team.
